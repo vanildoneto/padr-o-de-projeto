@@ -5,6 +5,3 @@ Pode ser utilizado para que as subclasses que criam objetos funcionem como o pad
 criar um novo objeto utilizando a palavra new, o que diminui o custo de memória.
 Ou seja, o cliente pode  implementar um código que utiliza o operador new, este utiliza o método clone()
 presente no protótipo e o método de uma fábrica(Factory Method ou Abstratct Factory) que fica encarregada de clonar o novo objeto
-
-
-
